@@ -1,5 +1,5 @@
 ## Introduction
-官方readme (README-original.md)，(README_zh-CN.md)
+官方readme (README-original.md)，| [简体中文](README_zh-CN.md)
 
 ## 数据集的准备    
 docs/zh_cn/user_guides/2_dataset_prepare.md
