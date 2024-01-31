@@ -1,0 +1,6 @@
+munster/munster_000001_000019
+munster/munster_000000_000019
+lindau/lindau_000000_000019
+lindau/lindau_000001_000019
+frankfurt/frankfurt_000000_000576
+frankfurt/frankfurt_000000_000294
