@@ -19,7 +19,7 @@
 这里就有每个数据集对应的预训练模型下载链接   https://github.com/xiaoyuyang0901/segmentation/tree/master/configs/segformer
 
 **pspnet**：segmentation/configs/pspnet
-
+这里就有每个数据集对应的预训练模型下载链接   https://github.com/xiaoyuyang0901/segmentation/blob/master/configs/pspnet/README.md
 
 ## 接口使用
 推理接口使用 segmentation/image_inference.py
