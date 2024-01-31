@@ -2,12 +2,12 @@
 官方readme： [英文版](README-original.md)  | [中文版](README_zh-CN.md)
 
 ## 数据集的准备    
-docs/zh_cn/user_guides/2_dataset_prepare.md
+文档：docs/zh_cn/user_guides/2_dataset_prepare.md
 
 数据集位置：segmentation/data
 
 ## 模型训练和测试  
-docs/zh_cn/user_guides/4_train_test.md
+文档：docs/zh_cn/user_guides/4_train_test.md
 
 脚本位置：tools/train.py
 
