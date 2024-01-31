@@ -56,6 +56,8 @@ English | [简体中文](README_zh-CN.md)
 
 ## Introduction
 
+test是生成视频的脚本
+
 MMSegmentation is an open source semantic segmentation toolbox based on PyTorch.
 It is a part of the OpenMMLab project.
 
