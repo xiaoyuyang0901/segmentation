@@ -15,9 +15,9 @@
 
 
 ## 各个模型的config位置
-segformer： segmentation/configs/segformer
+**segformer**： segmentation/configs/segformer
 
-pspnet：segmentation/configs/pspnet
+**pspnet**：segmentation/configs/pspnet
 
 
 ## 接口使用
